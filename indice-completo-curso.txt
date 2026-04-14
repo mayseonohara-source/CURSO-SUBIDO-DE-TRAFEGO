@@ -1,0 +1,144 @@
+CURSO SUBIDO DE TRAFEGO - INDICE COMPLETO
+==========================================
+
+MODULO 01 - INTRODUCAO AO TRAFEGO PAGO (2 aulas)
+1. Como esse curso vai funcionar? (20 min)
+2. Como ganhar dinheiro com esse curso (ou nao)? (11 min)
+
+MODULO 02 - O METODO SUBIDO DE TRAFEGO (13 aulas)
+1. Os 12 conceitos universais do trafego pago (19 min)
+2. Fontes de trafego (9 min)
+3. Leilao: um conceito avancado que vai te ajudar a sair do zero (12 min)
+4. Objetivos: sua mira a laser (3 min)
+5. Cardapio de segmentacoes (15 min)
+6. Como fazer uma pesquisa de ICP (4 min)
+7. Anuncios: o segredo dos anuncios online (36 min)
+8. Como fazer testes (8 min)
+9. Metricas: algo simples que todo mundo complica (22 min)
+10. Traqueamento: o superpoder do gestor de trafego (24 min)
+11. O Metodo Subido de distribuicao de conteudo (20 min)
+12. Como escalar suas campanhas (8 min)
+13. Implementacao tecnica (4 min)
+
+MODULO 03 - META ADS (11 aulas teoricas + 7 ABCs)
+1. Recursos para criar anuncios na Meta (7 min)
+  ABC: Configurando sua conta de anuncios
+  ABC: Como o cliente pode conceder acesso ao Meta Ads
+2. Pixel (conjunto de dados) e API de conversoes (12 min)
+  ABC: Configuracao de pixel
+3. Criacao de publicos-alvo (12 min)
+  ABC: Criacao de publicos-alvo
+4. Estrutura e nomenclatura de campanhas (10 min)
+5. Selecao de objetivos e metas de desempenho (20 min)
+6. Recursos Advantage (12 min)
+7. Os 4 tipos de orcamento (11 min)
+8. Estrategia de lance (11 min)
+9. As 5 maneiras de segmentar seu publico-alvo (12 min)
+10. Posicionamentos (9 min)
+  ABC: Tutorial pratico: campanhas
+  ABC: Colunas e Detalhamentos
+11. Fase de aprendizado (8 min)
+  ABC: Recursos extras da Meta
+
+MODULO 04 - GOOGLE ADS (13 aulas + ABCs)
+1. Como funciona o Google Ads (20 min)
+  ABC: Criando uma conta de anuncios no Google Ads
+  ABC: Como o cliente pode conceder acesso ao Google Ads
+2. Lances: como acelerar ou frear seus resultados? (14 min)
+3. Tag do Google e acoes de conversao (13 min)
+  ABC: Configurando sua conta e sua tag no Google Ads
+4. Segmentacoes no Google Ads (12 min)
+  ABC: Criacao de publicos
+5. Lista de palavras-chave (20 min)
+6. Criacao de campanhas na rede de pesquisa (16 min)
+  ABC: Criando suas campanhas de pesquisa
+7. Metricas especificas da rede de pesquisa (8 min)
+8. Criacao de campanhas de YouTube (20 min)
+  ABC: Criacao de campanhas de YouTube
+9. Criacao de campanhas de Display (13 min)
+  ABC: Criacao de campanhas de Display
+10. Criacao de campanhas de Pmax (11 min)
+  ABC: Criacao de campanhas de Pmax
+11. Criacao de campanhas de visitas a loja (3 min)
+  ABC: Criacao de campanhas de Visitas a Loja
+12. Problemas comuns no Google (9 min)
+  ABC: Configurando e criando seus recursos no Google Ads
+13. Google Ads Editor (7 min)
+  ABC: Google Ads Editor na pratica
+
+MODULO 05 - OTIMIZACAO DE CAMPANHAS (14 aulas + 1 ABC)
+1. O Metodo Subido de otimizacao (3 min)
+2. O que e uma melhora nos seus resultados? (14 min)
+3. Quando otimizar e quando NAO otimizar suas campanhas? (9 min)
+4. Como e quando alterar lances e orcamento? (14 min)
+5. Como e quando otimizar segmentacoes? (10 min)
+6. Como e quando otimizar criativos? (10 min)
+7. Como e quando otimizar estruturas? (7 min)
+8. Como e quando otimizar pixel? (3 min)
+9. Como e quando otimizar o destino? (10 min)
+10. Como definir a sua rotina de otimizacoes? (11 min)
+11. As 4 maneiras de testar variacoes nas suas campanhas (8 min)
+12. Como manipular suas metricas? (7 min)
+13. Como documentar otimizacoes? (6 min)
+14. Otimizacoes especificas do Google Ads (9 min)
+  ABC: Edicao de colunas
+
+MODULO 06 - ESTRATEGIAS DE TRAFEGO PAGO (13 aulas)
+1. Como criar uma estrategia de trafego pago (19 min)
+2. Como deixar de ser um apertador de botoes: operacional, tatico e estrategico (14 min)
+3. Planejamento de campanhas para negocios fisicos (19 min)
+4. Como criar um planejamento de campanhas para e-commerces (17 min)
+5. Planejamento de campanhas para infoprodutos de venda continua (6 min)
+6. Planejamento de campanhas de trafego para lancamentos (11 min)
+7. Quando unir e separar conjuntos de anuncios e campanhas (22 min)
+8. Exclusao e hierarquia de publicos (19 min)
+9. 15 principios para ser estrategico em suas segmentacoes (14 min)
+10. Distribuicao de conteudo (19 min)
+11. Distribuicao de conteudo: validacao e escolha (10 min)
+12. Distribuicao de conteudo: descoberta e aquecimento (9 min)
+13. Distribuicao de conteudo: diversificacao e variacao (6 min)
+
+MODULO 07 - TIKTOK ADS (4 aulas + 3 ABCs)
+1. A logica por tras do TikTok Ads (5 min)
+2. Criativos: o seu 80/20 (40 min)
+  ABC: Conta de anuncios, pixel e eventos
+3. Como segmentar bem seus anuncios no TikTok (5 min)
+  ABC: Criacao de publicos e campanha
+4. Objetivos de campanhas e orcamentos (6 min)
+  ABC: Configuracao de formularios instantaneos
+
+MODULO 08 - LINKEDIN ADS (4 aulas + 1 ABC)
+1. A logica por tras do LinkedIn Ads (6 min)
+2. Objetivos de campanha (3 min)
+3. Segmentacoes no LinkedIn (12 min)
+4. Formatos de anuncios e estrategias de lances (8 min)
+  ABC: Da Conta ao resultado: guia de campanhas
+
+MODULO 09 - BLOQUEIOS E CONTINGENCIAS (13 aulas + 6 ABCs)
+1. Introducao (4 min)
+2. Blindando seus ativos (11 min)
+  ABC: Seguranca
+3. Voce esta sendo rastreado (5 min)
+4. Tipos de bloqueio (33 min)
+5. Identificando as rejeicoes (7 min)
+6. Fui bloqueado e agora? (8 min)
+  ABC: Qualidade da conta
+7. Estrategias PCB (5 min)
+  ABC: Conexao com Instagram
+8. Contingencia (6 min)
+  ABC: Monitoramento de sites
+9. Tipos de contingencia (5 min)
+10. Ferramentas (3 min)
+  ABC: Multilogin
+11. Ativos de backup (5 min)
+  ABC: Metodos de criacao de BMs
+12. Nichos sensiveis (3 min)
+13. Conclusao (1 min)
+
+MODULO 10 - SOS TRAFEGO PAGO (2 aulas + 1 ABC)
+1. Boas-vindas (4 min)
+2. Informacoes importantes (4 min)
+  ABC: SOS Trafego Pago: acao rapida
+
+==========================================
+TOTAL: 90 aulas teoricas + 28 ABCs (praticos)

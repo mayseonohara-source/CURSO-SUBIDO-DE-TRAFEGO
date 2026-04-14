@@ -1,0 +1,8 @@
+# PDFs originais (grandes, nao versionados)
+pdfs/
+pdf-texts/
+
+# Arquivos temporarios
+.DS_Store
+*.tmp
+*.bak
