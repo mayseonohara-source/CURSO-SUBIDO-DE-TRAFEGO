@@ -140,6 +140,28 @@ Criar um **agente de IA especializado em trafego pago** baseado no Metodo Subido
 
 ---
 
+## Agente Veltro (implementado)
+
+A sintese proprietaria do conhecimento das 89 aulas foi destilada em uma skill do Claude Agent SDK pronta para plugar no **Veltro** (gestor de trafego).
+
+Localizacao: [`agente-veltro/`](agente-veltro/)
+
+**4 papeis que o agente assume:**
+1. Consultor estrategico (planejamento, estrutura, canal, verba)
+2. Otimizador de campanhas (diagnostico + 6 alavancas)
+3. Criador de criativos (8 tipos de gancho, VSL, templates)
+4. SOS bloqueios (blindagem + contingencia PCB)
+
+**Estrutura:**
+- `agente-veltro/SKILL.md` - identidade, principios, fluxo de atendimento, 8 comandos
+- `agente-veltro/README.md` - como plugar no Veltro (3 opcoes: system prompt / SDK / RAG)
+- `agente-veltro/references/` - 11 arquivos de conhecimento por dominio (metodo, Meta, Google, TikTok, LinkedIn, criativos, metricas, otimizacao, estrategia, bloqueios, diagnostico)
+
+**Comandos do agente:**
+`/plano`, `/anuncio`, `/otimizar`, `/icp`, `/sos`, `/nomenclatura`, `/metricas`, `/escala`
+
+---
+
 ## Credito e Direitos
 
 Todo o conteudo deste repositorio e baseado no curso oficial da **Comunidade Subido de Trafego** por **Pedro Sobral**. Uso pessoal e de estudo apenas.
